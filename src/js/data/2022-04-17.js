@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
 	name: "Ozawa Aimi",
-	img: "Fz0Lj0M/20220702-152004.jpg",
+	img: "hD79kLb/Remini20220702152923127.jpg",
 	opts: {
 	  groups: ["niajoi"],
 	  sub_unit: [""], activity_status: ["active"]
