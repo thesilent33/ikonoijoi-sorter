@@ -280,7 +280,7 @@ dataSet[dataSetVersion].characterData = [
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
     }
-  },
+  }, 
   {
     name: "Amano Konoa",
     img: "GH5qSZ0/amano-konoa.jpg",
