@@ -1,5 +1,5 @@
 dataSetVersion = "2021-04-17"; // Change this when creating a new data set version. YYYY-MM-DD format.
-// dataSetVersion = "2022-06-28"
+// dataSetVersion = "2022-07-02"
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
 	name: "Ozawa Aimi",
-	img: "mtDTcr2/Aimi-Niajoy-2.jpg",
+	img: "Fz0Lj0M/20220702-152004.jpg",
 	opts: {
 	  groups: ["niajoi"],
 	  sub_unit: [""], activity_status: ["active"]
