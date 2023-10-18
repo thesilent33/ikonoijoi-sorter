@@ -73,6 +73,106 @@ dataSet[dataSetVersion].options = [
 ];
 
 dataSet[dataSetVersion].characterData = [
+  // =LOVE members
+  
+  {
+    name: "Otani Emiri",
+    img: "mh6NXD1/otani-emiri.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Oba Hana",
+    img: "WBy6J2K/oba-hana.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Otoshima Risa",
+    img: "pPhTY4L/otoshima-risa.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Saito Kiara",
+    img: "nc2M1ZK/saito-kiara-original-2.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Saito Nagisa",
+    img: "hW3w6S9/saito-nagisa.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["graduated"]
+    }
+  },
+  {
+    name: "Sasaki Maika",
+    img: "HtxKLsB/sasaki-maika.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Satake Nonno",
+    img: "BwdwDZv/satake-nonno-original.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["graduated"]
+    }
+  },
+  {
+    name: "Takamatsu Hitomi",
+    img: "Fz7sBDh/takamatsu-hitomi.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Takiwaki Shoko",
+    img: "rx4PNV6/takiwaki-shoko.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Noguchi Iori",
+    img: "G73qV5R/noguchi-iori.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Morohashi Sana",
+    img: "k931gyk/morohashi-sana.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+  {
+    name: "Yamamoto Anna",
+    img: "tcVk6NC/yamamoto-anna.jpg",
+    opts: {
+      groups: ["ikorabu"],
+      sub_unit: [""], activity_status: ["active"]
+    }
+  },
+
+
   // ≠ME members
 
   {
@@ -172,104 +272,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
 
-  // =LOVE members
   
-  {
-    name: "Otani Emiri",
-    img: "RjM6Tb6/otani-emiri.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Oba Hana",
-    img: "2nM0n1n/oba-hana.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Otoshima Risa",
-    img: "NnW54dJ/otoshima-risa.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Saito Kiara",
-    img: "V0GqzSv/saito-kiara-original-2.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Saito Nagisa",
-    img: "hW3w6S9/saito-nagisa.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["graduated"]
-    }
-  },
-  {
-    name: "Sasaki Maika",
-    img: "zGDmsVg/sasaki-maika.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Satake Nonno",
-    img: "BwdwDZv/satake-nonno-original.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["graduated"]
-    }
-  },
-  {
-    name: "Takamatsu Hitomi",
-    img: "FbXkdKd/takamatsu-hitomi.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Takiwaki Shoko",
-    img: "NVy534Q/takiwaki-shoko.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Noguchi Iori",
-    img: "BztNwZZ/noguchi-iori.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Morohashi Sana",
-    img: "4V25VJ4/morohashi-sana.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
-  {
-    name: "Yamamoto Anna",
-    img: "VMsqJV2/yamamoto-anna.jpg",
-    opts: {
-      groups: ["ikorabu"],
-      sub_unit: [""], activity_status: ["active"]
-    }
-  },
   
   // ≒JOY members
   
