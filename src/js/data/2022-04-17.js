@@ -77,7 +77,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Otani Emiri",
-    img: "mh6NXD1/otani-emiri.jpg",
+    img: "3a/54/H4MI4jvX_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -85,7 +85,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Oba Hana",
-    img: "WBy6J2K/oba-hana.jpg",
+    img: "ad/47/jP7wsQZG_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
