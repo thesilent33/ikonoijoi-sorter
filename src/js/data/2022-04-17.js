@@ -1,5 +1,5 @@
 dataSetVersion = "2022-04-17"; // Change this when creating a new data set version. YYYY-MM-DD format.
-// dataSetVersion = "2023-10-18"
+// dataSetVersion = "2024-10-04"
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -77,7 +77,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Otani Emiri",
-    img: "mh6NXD1/otani-emiri.jpg",
+    img: "3a/54/H4MI4jvX_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -85,7 +85,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Oba Hana",
-    img: "WBy6J2K/oba-hana.jpg",
+    img: "ad/47/jP7wsQZG_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -93,7 +93,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Otoshima Risa",
-    img: "pPhTY4L/otoshima-risa.jpg",
+    img: "3b/75/EaW8SeZ1_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -101,7 +101,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Saito Kiara",
-    img: "nc2M1ZK/saito-kiara-original-2.jpg",
+    img: "e1/15/IoxUCGID_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -109,7 +109,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Saito Nagisa",
-    img: "hW3w6S9/saito-nagisa.jpg",
+    img: "19/bb/Q3iaCNFz_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["graduated"]
@@ -117,7 +117,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sasaki Maika",
-    img: "HtxKLsB/sasaki-maika.jpg",
+    img: "f7/d8/ln6mBhTm_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -125,7 +125,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Satake Nonno",
-    img: "BwdwDZv/satake-nonno-original.jpg",
+    img: "96/9b/ZxIVujLe_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["graduated"]
@@ -133,7 +133,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Takamatsu Hitomi",
-    img: "Fz7sBDh/takamatsu-hitomi.jpg",
+    img: "a9/03/NjcY9d6H_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -141,7 +141,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Takiwaki Shoko",
-    img: "rx4PNV6/takiwaki-shoko.jpg",
+    img: "dd/3f/E8Dw21Jk_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -149,7 +149,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Noguchi Iori",
-    img: "G73qV5R/noguchi-iori.jpg",
+    img: "a0/8b/R9ok82yD_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -157,7 +157,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Morohashi Sana",
-    img: "k931gyk/morohashi-sana.jpg",
+    img: "18/cf/sxwR7aL5_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -165,7 +165,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yamamoto Anna",
-    img: "tcVk6NC/yamamoto-anna.jpg",
+    img: "10/a1/iCdI5aVh_o.jpg",
     opts: {
       groups: ["ikorabu"],
       sub_unit: [""], activity_status: ["active"]
@@ -177,7 +177,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "Ogi Hana",
-    img: "g9WQ6nB/ogi-hana-thumb.jpg",
+    img: "56/d6/8RTgWrRR_o.jpg",
     opts: {
       groups: [ "noimi" ],
       sub_unit: [""], activity_status: ["active"]
@@ -185,7 +185,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ochiai Kirari",
-    img: "K0LBQxz/ochiai-kirari-thumb.jpg",
+    img: "93/da/t0Nl4TfO_o.jpg",
     opts: {
       groups: [ "noimi" ],
       sub_unit: [""], activity_status: ["active"]
@@ -193,7 +193,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kanisawa Moeko",
-    img: "HBqFD93/kanisawa-moeko-thumb.jpg",
+    img: "09/1d/s5DjVUI4_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: [""], activity_status: ["active"]
@@ -201,7 +201,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kawaguchi Natsune",
-    img: "VxHpkkq/kawaguchi-natsune-thumb.jpg",
+    img: "6d/f1/Nnpm2yrx_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: ["", ""], activity_status: ["active"]
@@ -209,7 +209,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kawanago Natsumi",
-    img: "z5zs0bC/kawanago-natsumi-thumb.jpg",
+    img: "d4/6e/7pHUwZtX_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: ["", ""], activity_status: ["active"]
@@ -217,7 +217,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sakurai Momo",
-    img: "CzYPpKH/sakurai-momo-thumb.jpg",
+    img: "a3/0e/Z4EnIXmL_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: [""], activity_status: ["active"]
@@ -225,7 +225,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Suganami Mirei",
-    img: "BZfXsbN/suganami-mirei-thumb.jpg",
+    img: "66/75/RjW6ojm5_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: ["", ""], activity_status: ["active"]
@@ -233,7 +233,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Suzuki Hitomi",
-    img: "fSGR8tW/suzuki-hitomi-thumb.jpg",
+    img: "73/cb/pRKHJ8z5_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: [""], activity_status: ["active"]
@@ -241,7 +241,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tanizaki Saya",
-    img: "NTKnFJT/tanizaki-saya-thumb.jpg",
+    img: "df/6e/H18WTCzA_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: [""], activity_status: ["active"]
@@ -249,7 +249,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tomita Nanaka",
-    img: "2nmM5Cx/tomita-nanaka-thumb.jpg",
+    img: "11/51/zYPBnLqy_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: [""], activity_status: ["active"]
@@ -257,7 +257,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nagata Shiori",
-    img: "bbvJzbk/nagata-shiori-thumb.jpg",
+    img: "80/8d/Uy1NnwnH_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: [""], activity_status: ["active"]
@@ -265,7 +265,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Honda Miyuki",
-    img: "g7JH539/honda-miyuki-thumb.jpg",
+    img: "11/51/zYPBnLqy_o.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: [""], activity_status: ["active"]
@@ -278,7 +278,7 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Aida Jurii",
-    img: "BqxY705/aida-jurii.jpg",
+    img: "4e/c0/8j2MJRJf_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -286,7 +286,7 @@ dataSet[dataSetVersion].characterData = [
   }, 
   {
     name: "Amano Konoa",
-    img: "jWSgSXk/amano-konoa.jpg",
+    img: "cf/56/1KF9BNgj_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -294,7 +294,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ichihara Ayumi",
-    img: "StKjKvy/ichihara-ayumi.jpg",
+    img: "63/76/dXbAjXbr_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -302,7 +302,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Esumi Renon",
-    img: "tcShSWw/esumi-renon.jpg",
+    img: "de/46/Vy5YqRTf_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -310,7 +310,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Oshida Mitsuki",
-    img: "zf6b3sw/oshida-mitsuki.jpg",
+    img: "fc/6b/ICCedHjO_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -318,7 +318,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Onishi Aoi",
-    img: "0tH94BW/onishi-aoi.jpg",
+    img: "05/98/OT5LwFlQ_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -326,7 +326,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Takahashi Mai",
-    img: "MfJvvJr/takahashi-mai.jpg",
+    img: "12/e3/RikX7hSm_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -334,7 +334,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Fukuyama Moeka",
-    img: "Wzxfk00/fukuyama-moeka.jpg",
+    img: "44/2d/SBTNXR3y_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["graduated"]
@@ -342,7 +342,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Fujisawa Riko",
-    img: "sqWMLWf/fujisawa-riko.jpg",
+    img: "7f/4a/ElObiCiR_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -350,7 +350,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Murayama Yuuka",
-    img: "6RQ0sGk/murayama-yuuka.jpg",
+    img: "0b/a6/Wdllk6iF_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -358,7 +358,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yamada Momoka",
-    img: "SNGczgK/yamada-momoka.jpg",
+    img: "da/77/g6xQRuaV_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -366,7 +366,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yamano Arisu",
-    img: "KNHk0mg/yamano-arisu.jpg",
+    img: "8e/ea/G0dkUdSC_o.jpg",
     opts: {
       groups: ["niajoi"],
       sub_unit: [""], activity_status: ["active"]
@@ -374,7 +374,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
 	name: "Ozawa Aimi",
-	img: "1fkX3JY/ozawa-aimi.jpg",
+	img: "1f/dd/o0FqYRL9_o.jpg",
 	opts: {
 	  groups: ["niajoi"],
 	  sub_unit: [""], activity_status: ["active"]
