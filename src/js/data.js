@@ -23,4 +23,5 @@ let dataSetVersion = '2022-04-17';
  */
 // https://images2.imgbox.com/ < why this not working??????
 // web: https://imgbb.com/
+// web: https://i.ibb.co/
 const imageRoot = 'https://imgbb.com/';
