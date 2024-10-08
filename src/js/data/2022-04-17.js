@@ -32,76 +32,73 @@ dataSet[dataSetVersion].characterData = [
   
   {
     name: "Kizuki Nao",
-    img: "3.jpg",
+    img: "kizuki_nao.jpg",
     opts: {
       sub_unit: [""], activity_status: ["active"]
     }
   },
   {
     name: "Suzumi Su",
-    img: "3.jpg",
+    img: "suzumi_su.jpg",
     opts: {
       sub_unit: [""], activity_status: ["active"]
     }
-  }
-  
-  
-  /* ,
+  },
   {
     name: "Hashimoto Momoko",
-    img: "xG53zkT/otoshima-risa.jpg",
+    img: "hashimoto_momoko.jpg",
     opts: {
       sub_unit: [""], activity_status: ["active"]
     }
   },
   {
     name: "Hazuki Saara",
-    img: "V9KF7pm/saito-kiara.jpg",
+    img: "hazuki_saara.jpg",
     opts: {
       sub_unit: [""], activity_status: ["active"]
     }
   },
   {
     name: "Haruno Riri",
-    img: "hW3w6S9/saito-nagisa.jpg",
+    img: "haruno_riri.jpg",
     opts: {
       sub_unit: [""], activity_status: ["graduated"]
     }
   },
   {
     name: "Higashiyama Erisa",
-    img: "KbnGPZf/sasaki-maika.jpg",
+    img: "higashiyama_erisa.jpg",
     opts: {
       sub_unit: [""], activity_status: ["active"]
     }
   },
   {
     name: "Hinahata Hina",
-    img: "BwdwDZv/satake-nonno-original.jpg",
+    img: "hinata_hina.jpg",
     opts: {
       sub_unit: [""], activity_status: ["graduated"]
     }
   },
   {
     name: "Hoshitani Mikuru",
-    img: "4sxV7jS/takamatsu-hitomi.jpg",
+    img: "hoshitani_mikuru.jpg",
     opts: {
       sub_unit: [""], activity_status: ["active"]
     }
   },
   {
     name: "Matsumoto Momona",
-    img: "sVSLTmW/takiwaki-shoko.jpg",
+    img: "matsumoto_momona.jpg",
     opts: {
       sub_unit: [""], activity_status: ["active"]
     }
   },
   {
     name: "Momiyama Himeri",
-    img: "nnQpHJs/noguchi-iori.jpg",
+    img: "momiyama_himeri.jpg",
     opts: {
       sub_unit: [""], activity_status: ["active"]
     }
   }
- */
+
 ];
