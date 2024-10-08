@@ -1054,7 +1054,8 @@ function preloadImages() {
       return new Promise((resolve, reject) => {
           const img = new Image();
 
-          img.crossOrigin = 'Anonymous';
+          // img.crossOrigin = 'anonymous';
+		  crossOrigin: null
           img.onload = () => {
             setImageToData(img, idx);
             resolve(img);
