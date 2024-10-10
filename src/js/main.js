@@ -443,7 +443,8 @@ function pick(sortType) {
   if (leftIndex < 0) {
     timeTaken = timeTaken || new Date().getTime() - timestamp;
 
-    progressBar(`Battle No. ${battleNo} - Completed!`, 100);
+    // progressBar(`Battle No. ${battleNo} - Completed!`, 100);
+    progressBar(`Sorting completed! Here's your list:`, 100);
 
     /** Initialize image quantity selector for results. */
 	if (characterDataToSort.length < 7)
@@ -558,7 +559,7 @@ function result(imageNum = 7) {
 	
 	if((num-1) % 3 === 0)
 	{
-		otpt = `<div class="col-12"><div class="row"><div class="col-4 px-0"></div><div class="result kami col-4 pl-0 pr-1 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 border rounded-lg"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0"><div class="row mx-0"><img class="col-12 px-0 mx-xl-auto border rounded-lg" src="${char.img}"><div class="d-flex col-12 pl-1 pr-0 text-break text-center justify-content-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div><div class="col-4 pl-0 pr-1"></div></div></div>`;
+		otpt = `<div class="col-12"><div class="row"><div class="col-4 px-0"></div><div class="result kami col-4 pl-0 pr-1 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 border rounded-lg text-center justify-content-center"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0"><div class="row mx-0"><img class="col-12 px-0 mx-xl-auto border rounded-lg" src="${char.img}"><div class="d-flex col-12 pl-1 pr-0 text-break text-center justify-content-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div><div class="col-4 pl-0 pr-1"></div></div></div>`;
 	}
 	else
 	{
@@ -584,12 +585,12 @@ function result(imageNum = 7) {
 	
 	if((num-1) % 3 === 0)
 	{
-		otpt = `<div class="result image col-4 pl-0 pr-1 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 border rounded-lg"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0"><div class="row mx-0"><img class="col-12 px-0 mx-xl-auto border rounded-lg" src="${char.img}"><div class="d-flex col-12 pl-1 pr-0 text-break text-center justify-content-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div>`;
+		otpt = `<div class="result image col-4 pl-0 pr-1 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 border rounded-lg text-center justify-content-center"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0"><div class="row mx-0"><img class="col-12 px-0 mx-xl-auto border rounded-lg" src="${char.img}"><div class="d-flex col-12 pl-1 pr-0 text-break text-center justify-content-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div>`;
 	}
 	
 	else
 	{
-		otpt = `<div class="result image col-4 pl-0 pr-1 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 border rounded-lg"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0"><div class="row mx-0"><img class="col-12 px-0 mx-xl-auto border rounded-lg" src="${char.img}"><div class="d-flex col-12 pl-1 pr-0 text-break text-center justify-content-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div>`;
+		otpt = `<div class="result image col-4 pl-0 pr-1 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 border rounded-lg text-center justify-content-center"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0"><div class="row mx-0"><img class="col-12 px-0 mx-xl-auto border rounded-lg" src="${char.img}"><div class="d-flex col-12 pl-1 pr-0 text-break text-center justify-content-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div>`;
 	}
 	
     return otpt;
@@ -604,11 +605,11 @@ function result(imageNum = 7) {
 	
 	if((num-1) % 3 === 0)
 	{
-		otpt = `<div class="result col-4 px-0 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 border rounded-lg"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0 justify-content-center"><div class="row mx-0"><div class="pl-1 pr-0 d-flex col-12 align-items-center text-break text-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div>`;
+		otpt = `<div class="result col-4 px-0 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 border rounded-lg text-center justify-content-center"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0 justify-content-center"><div class="row mx-0"><div class="pl-1 pr-0 d-flex col-12 align-items-center text-break text-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div>`;
 	}
 	else
 	{
-		otpt = `<div class="result col-4 pl-0 pr-1 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 align-items-center border rounded-lg"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0 justify-content-center"><div class="row mx-0"><div class="pl-1 pr-0 d-flex col-12 align-items-center text-break text-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div>`;
+		otpt = `<div class="result col-4 pl-0 pr-1 pb-1 d-flex"><div class="flex-fill row mx-0 result-mcontainer p-1 align-items-center border rounded-lg text-center justify-content-center"><div class="d-flex right col-12 col-xl-10 pl-0 pr-0 justify-content-center"><div class="row mx-0"><div class="pl-1 pr-0 d-flex col-12 align-items-center text-break text-center" title="${charTooltip}">${num}. ${charName}</div></div></div></div></div>`;
 	}
 	
 	return otpt;
