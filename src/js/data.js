@@ -21,10 +21,8 @@ let dataSetVersion = '2022-04-17';
  * Image root, will be appended to the start of every image URL.
  * Image Source: imgbb.com
  */
-// https://images2.imgbox.com/ < why this not working??????
+
 // web: https://imgbb.com/
-// web: https://i.ibb.co/
-// const imageRoot = 'https://images2.imgbox.com/4e/c0/';
 // const imageRoot = 'https://i.ibb.co/';
 const imageRoot = './src/assets/member/';
 
