@@ -74,7 +74,7 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   // =LOVE members
-  
+  //
   {
     name: "Otani Emiri",
     img: "otani_emiri.jpg",
