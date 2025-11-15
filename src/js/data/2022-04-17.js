@@ -201,7 +201,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kawaguchi Natsune",
-    img: "kawaguchi_-natsune_thumb.jpg",
+    img: "kawaguchi_natsune_thumb.jpg",
     opts: {
       groups: ["noimi"],
       sub_unit: ["", ""], activity_status: ["active"]
